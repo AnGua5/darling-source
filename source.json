@@ -22,11 +22,11 @@
                      "category":  "social",
                      "versions":  [
                                       {
-                                          "version":  "0.3",
-                                          "buildVersion":  "4",
+                                          "version":  "0.4",
+                                          "buildVersion":  "5",
                                           "date":  "2026-11-19",
-                                          "downloadURL":  "https://github.com/AnGua5/darling-source/releases/download/v0.3-4/Darling.ipa",
-                                          "size":  338028,
+                                          "downloadURL":  "https://github.com/AnGua5/darling-source/releases/download/v0.4-5/Darling.ipa",
+                                          "size":  346006,
                                           "minOSVersion":  "16.0"
                                       }
                                   ]
