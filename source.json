@@ -1,33 +1,35 @@
 {
-  "name": "Darling 更新源",
-  "identifier": "personal.darling.source",
-  "subtitle": "自用 Darling 客户端",
-  "description": "通过 Tailscale 连接自建后端，支持流式回复、发图片和文本文件。",
-  "iconURL": "https://angua5.github.io/darling-source/icon.png",
-  "headerURL": "https://angua5.github.io/darling-source/icon.png",
-  "website": "https://github.com/AnGua5/darling-source",
-  "tintColor": "#0A84FF",
-  "featuredApps": ["personal.darling.chat"],
-  "apps": [
-    {
-      "name": "Darling",
-      "bundleIdentifier": "personal.darling.chat",
-      "developerName": "AnGua5",
-      "subtitle": "自用聊天客户端",
-      "localizedDescription": "通过 Tailscale 连接自建后端，支持流式回复、发图片和文本文件。",
-      "iconURL": "https://angua5.github.io/darling-source/icon.png",
-      "tintColor": "#0A84FF",
-      "category": "social",
-      "versions": [
-        {
-          "version": "0.1",
-          "buildVersion": "2",
-          "date": "2026-11-19",
-          "downloadURL": "https://github.com/AnGua5/darling-source/releases/download/v0.1-2/Darling.ipa",
-          "size": 105963,
-          "minOSVersion": "16.0"
-        }
-      ]
-    }
-  ]
+    "name":  "Darling 更新源",
+    "identifier":  "personal.darling.source",
+    "subtitle":  "自用 Darling 客户端",
+    "description":  "通过 Tailscale 连接自建后端，支持流式回复、发图片和文本文件。",
+    "iconURL":  "https://angua5.github.io/darling-source/icon.png",
+    "headerURL":  "https://angua5.github.io/darling-source/icon.png",
+    "website":  "https://github.com/AnGua5/darling-source",
+    "tintColor":  "#0A84FF",
+    "featuredApps":  [
+                         "personal.darling.chat"
+                     ],
+    "apps":  [
+                 {
+                     "name":  "Darling",
+                     "bundleIdentifier":  "personal.darling.chat",
+                     "developerName":  "AnGua5",
+                     "subtitle":  "自用聊天客户端",
+                     "localizedDescription":  "通过 Tailscale 连接自建后端，支持流式回复、发图片和文本文件。",
+                     "iconURL":  "https://angua5.github.io/darling-source/icon.png",
+                     "tintColor":  "#0A84FF",
+                     "category":  "social",
+                     "versions":  [
+                                      {
+                                          "version":  "0.2",
+                                          "buildVersion":  "3",
+                                          "date":  "2026-11-19",
+                                          "downloadURL":  "https://github.com/AnGua5/darling-source/releases/download/v0.2-3/Darling.ipa",
+                                          "size":  334198,
+                                          "minOSVersion":  "16.0"
+                                      }
+                                  ]
+                 }
+             ]
 }
