@@ -21,6 +21,7 @@
                      "tintColor":  "#0A84FF",
                      "category":  "social",
                      "versions":  [
+                                      {"version":"0.5","buildVersion":"6","date":"2026-11-20","downloadURL":"https://github.com/AnGua5/darling-source/releases/download/v0.5-6/Darling.ipa","size":375196,"minOSVersion":"16.0"},
                                       {
                                           "version":  "0.4",
                                           "buildVersion":  "5",
